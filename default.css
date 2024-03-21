@@ -16,7 +16,7 @@ body {
   height: 100%;
   position: absolute;
   text-align: center;
-  background-color: darkred;
+  background-color: #831d1e;
   color: white;
 }
 
@@ -109,7 +109,7 @@ body {
   font-size: 14px;
   height: 56px;
   color: white;
-  background-color: rgba(49, 49, 49, 1);
+  background-color: #881c1c
 
   display: -webkit-box;
 
@@ -154,7 +154,7 @@ body {
   position: relative;
 }
 #solitaire-board .dark-box {
-  background-color: darkred;
+  background-color: #831d1e;
 }
 #solitaire-board .pile {
   position: absolute;
@@ -178,7 +178,7 @@ body {
   z-index: 1;
 }
 #solitaire-container {
-  background-color: red;
+  background-color: #a71c1c;
   position: absolute;
 
   /* top equals to solitaire.util.NON_BOARD_ELEMENT_HEIGHT */
