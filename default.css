@@ -16,7 +16,7 @@ body {
   height: 100%;
   position: absolute;
   text-align: center;
-  background-color: rgba(43, 123, 59, 1);
+  background-color: darkred;
   color: white;
 }
 
@@ -154,7 +154,7 @@ body {
   position: relative;
 }
 #solitaire-board .dark-box {
-  background-color: rgba(43, 123, 59, 1);
+  background-color: darkred;
 }
 #solitaire-board .pile {
   position: absolute;
@@ -178,7 +178,7 @@ body {
   z-index: 1;
 }
 #solitaire-container {
-  background-color: #34A249;
+  background-color: red;
   position: absolute;
 
   /* top equals to solitaire.util.NON_BOARD_ELEMENT_HEIGHT */
